@@ -6,7 +6,7 @@ using System.Text;
 
 namespace FuncSample.Lib.Tests
 {
-    public class MyClassTests
+    public class SqlQueryHelperTests
     {
         public static IEnumerable<object[]> TestCases()
         {
